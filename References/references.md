@@ -8,3 +8,6 @@
  * [Inroduction to Mcollective - R.I. Pienaar](http://www.slideshare.net/PuppetLabs/mcollectiveintroductionsf?qid=8c4dc0b6-9d34-4c82-813f-1018dac2a2fb&v=qf1&b=&from_search=5)
  * [MColeective Installed. And now ? - Thomas Gelf](http://www.slideshare.net/NETWAYS/mcollective-installed-and-now-by-thomas-gelf?qid=8c4dc0b6-9d34-4c82-813f-1018dac2a2fb&v=qf1&b=&from_search=12)
  * [Learning MCollective - Jo Rhet (O'Reilly)](http://shop.oreilly.com/product/0636920032472.do)
+
+
+  * [This Presentation on Github](https://github.com/witjoh/BPUG_MCollective)
