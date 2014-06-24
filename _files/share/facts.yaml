@@ -1,0 +1,88 @@
+--- 
+sshdsakey: AAAAB3NzaC1kc3MAAACBAPDnLf/P2JHz2E0aUd+E8O8YuybLDdTnujrnLMjVJb6wOFA1R59fcUHATXd1YwCtS1gKG+5Jvw26t9K4zNh3A75jdLXC6kBiQXzcf+92OgL6FWpGYVJ9x+7/KEKiaf80m/Ry5I0W62WLpbJ5kmgep2EWh2fDgxyZ5NeTp4KrARMBAAAAFQDzTZ/s+ij+u9yY6H47os/RFzUQjQAAAIAMdZkfyKX0mjGPLyDO2hFRWZxnYLmGVhojHO5qETkfPXQpSe0hepePH4nJnjfQG4rjcDpqu2BLNtY26ez0QC0iZLRlVTcP7/t10Jd24FCVf/uADo8iOUEDJD+/xx9X3xwX1pwikEPLP/VDZnx1xT5E03m4uY77iqafkgwy7EMdQgAAAIB8wNled5Rz4HtjJdOKAJO2mRwE6BBn8CEbMSyfz9QJqCmdB77k3afozwK4533+T9vDd8HmG0oefonTtQycFkmZAev5+NlnI4SXCr4RHJym8cTzp1JBo2uWFisTwP3dswLQRNJPtH/OkQgDRkCJU+hOGm7X6OcnhUW+SqRDXeOYCA==
+uptime_hours: 3
+sshrsakey: AAAAB3NzaC1yc2EAAAABIwAAAQEAvUmKY8pcuWVoV17WiSyJHHXLwoaA1AUdW9hHA41lTqRJEGDP9jJ6A9RdCZvr7Zu3lsX0HsnLE7O89cw7wrXAWUAGv/iP3stDejI2H+gHF9eLNhEdso+CkPPmXClqyWBYIex0SZh/lMEnfgAPMuUEy5RQ3LFxhLpy7rAwFRiTAyS8OmYMLuE6TUXtUTe5Qprwm3wq56D3KSrFN+K8u0j62cj1sPBz2yEy+8rbH5Xcldcc36N/ip0beNxDX8cjWbsZ+qPM75U1NHbPz2svKl0Jkyb6Nm8eCHhGUiIXT/R0QV98pM2vfjUNo3SqL01bcDNuIGj8FIZE1onzNXgAYJs9HQ==
+boardserialnumber: "0"
+ipaddress_lo: 127.0.0.1
+sshfp_rsa: |-
+  SSHFP 1 1 2c9eabb6815672bfe7c876af7ea96c0c24bf4638
+  SSHFP 1 2 3560fd3eafae41e053c904150d21fbd036026c43f35859e3c51765928e9c8371
+processor0: Intel(R) Core(TM)2 Duo CPU     T9600  @ 2.80GHz
+ps: ps -ef
+memoryfree_mb: "865.31"
+network_eth0: 10.0.2.0
+hardwareisa: x86_64
+memoryfree: 865.31 MB
+macaddress_eth2: 08:00:27:86:F3:D7
+netmask: 255.255.255.0
+swapfree: 991.99 MB
+operatingsystem: CentOS
+fqdn: johan.koewacht.net
+mtu_eth0: "1500"
+uptime: 3:25 hours
+id: root
+kernel: Linux
+kernelmajversion: "2.6"
+osfamily: RedHat
+netmask_eth0: 255.255.255.0
+ipaddress_eth0: 10.0.2.15
+bios_version: VirtualBox
+bios_release_date: 12/01/2006
+filesystems: ext4,iso9660
+network_eth2: 192.168.10.0
+domain: koewacht.net
+operatingsystemrelease: "6.5"
+timezone: PDT
+boardmanufacturer: Oracle Corporation
+facterversion: 2.0.2
+selinux: "false"
+netmask_lo: 255.0.0.0
+is_virtual: "true"
+mtu_lo: "16436"
+swapfree_mb: "991.99"
+memorysize_mb: "996.43"
+uniqueid: 007f0100
+macaddress_eth1: 08:00:27:D5:A4:20
+blockdevice_sda_size: 10632560640
+mtu_eth2: "1500"
+boardproductname: VirtualBox
+netmask_eth2: 255.255.255.0
+ipaddress_eth2: 192.168.10.223
+bios_vendor: innotek GmbH
+sshfp_dsa: |-
+  SSHFP 2 1 fb83bb843bb8778dbf91fefa703ca0be301a4ff5
+  SSHFP 2 2 cf768033b76eb24174b95824a3907acea388c03ee12d71f57ab41c231bf3138a
+type: Other
+interfaces: eth0,eth1,eth2,lo
+kernelrelease: 2.6.32-431.el6.x86_64
+network_eth1: 192.168.127.0
+blockdevice_sda_vendor: ATA
+uptime_days: 0
+ipaddress: 10.0.2.15
+uptime_seconds: 12312
+operatingsystemmajrelease: "6"
+blockdevice_sda_model: VBOX HARDDISK
+hostname: johan
+manufacturer: innotek GmbH
+blockdevices: sda
+path: /usr/local/sbin:/sbin:/bin:/usr/sbin:/usr/bin:/root/bin
+swapsize: 991.99 MB
+memorysize: 996.43 MB
+physicalprocessorcount: "1"
+processorcount: "1"
+macaddress_eth0: 08:00:27:5E:0A:C7
+mtu_eth1: "1500"
+serialnumber: "0"
+hardwaremodel: x86_64
+netmask_eth1: 255.255.255.0
+architecture: x86_64
+productname: VirtualBox
+virtual: virtualbox
+uuid: 7A2BADF3-913E-474D-B874-9A6B1DF9BC4F
+swapsize_mb: "991.99"
+ipaddress_eth1: 192.168.127.207
+macaddress: 08:00:27:5E:0A:C7
+rubyversion: 1.8.7
+kernelversion: 2.6.32
+rubysitedir: /usr/lib/ruby/site_ruby/1.8
+network_lo: 127.0.0.0
