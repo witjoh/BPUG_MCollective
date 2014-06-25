@@ -2,7 +2,7 @@
 
 # The MCollective Server -  mcollectived #
 
-![MCollective Server](../_images/server.png "The mcollectived Server Component")
+![MCollective Server](../_images/server_small.png "The mcollectived Server Component")
 
 ~~~SECTION:notes~~~
 The mcollectived service uses several kinds of plugin:

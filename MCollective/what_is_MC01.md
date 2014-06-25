@@ -1,4 +1,4 @@
-!SLIDE[bg=bpug_bg.png] 
+!SLIDE[bg=bpug_bg.png]
 
 # MCollective #
 

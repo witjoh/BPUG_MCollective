@@ -2,7 +2,7 @@
 
 # Inside The MCollective Middleware #
 
-![MCollective Middleware Detail](../_images/middleware.png "Inside The Middelware")
+![MCollective Middleware Detail](../_images/middleware_small.png "Inside The Middelware")
 
 ~~~SECTION:notes~~~
 The connector and middleware handle three main kinds of messages:

@@ -2,7 +2,7 @@
 
 # MCollective Middleware Overview #
 
-![MCollective Middleware Overview](../_images/middleware-magic.png "The Middleware Magic")
+![MCollective Middleware Overview](../_images/middleware-magic_small.png "The Middleware Magic")
 
 ~~~SECTION:notes~~~
 MCollective clients and servers don’t communicate directly: they expect to be connected to some middleware system that knows how to route messages. They then publish messages to the middleware, and subscribe to messages they are interested in.

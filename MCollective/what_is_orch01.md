@@ -4,7 +4,7 @@
 
  * Parallel job execution System
 
-![data centre  orchest](../_images/orchestration2.png "Conductor of a DataCenter Orchestra")
+![data centre orchestration](../_images/orchestration2.png "Conductor of a DataCenter Orchestra")
 
 
 

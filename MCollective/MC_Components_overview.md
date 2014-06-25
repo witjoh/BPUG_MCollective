@@ -2,7 +2,7 @@
 
 # Overview - Components #
 
-![MCollective Components](../_images/deployment.png "The Three Main Components")
+![MCollective Components](../_images/deployment_small.png "The Three Main Components")
 
 ~~~SECTION:notes~~~
 When talking about server, client, agent in the context of MCollective,

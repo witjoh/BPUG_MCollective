@@ -2,7 +2,7 @@
 
 # The MCollective Client #
 
-![MCollective Components](../_images/client.png "The MCollective client")
+![MCollective Components](../_images/client_small.png "The MCollective client")
 
 ~~~SECTION:notes~~~
 * The most common client is the mco command-line client.
