@@ -3,5 +3,7 @@
 # Agenda #
 
   * Orchestration & MCollective
-  * Hands-on session
+  * Hands-on - Setting up MCollective
+  * The 'mco' command
+  * MCollective Agents
   * And what about Tomorrow ?

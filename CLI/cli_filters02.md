@@ -11,9 +11,9 @@
     $ mco ping --with "/^web\d/ operatingsystem=CentOS"
 
 * Select filter
-  * combination of 
-    * Factes and Classes
-    * Boolean Logic ( AND - OR - NOT|! )
+    * combination of
+        * Factes and Classes
+        * Boolean Logic ( AND - OR - NOT|! )
 
 .break text
 

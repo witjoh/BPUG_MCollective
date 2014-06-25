@@ -11,7 +11,8 @@ Line number correspond to download-able activemq.xml file
 .break text
 
     @@@ Xml
-    35      <broker xmlns="http://activemq.apache.org/schema/core" brokerName="localhost" useJmx="true" schedulePeriodForDestinationPurge="60000">
+    35      <broker xmlns="http://activemq.apache.org/schema/core" brokerName="localhost" useJmx="true"
+              schedulePeriodForDestinationPurge="60000">
 
 * Disable producerFlowControl & memory cleanup
 

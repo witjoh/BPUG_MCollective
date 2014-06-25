@@ -20,7 +20,8 @@
     118         <authorizationEntry queue="mcollective.nodes" read="servers" admin="servers" />
     119         <authorizationEntry queue="mcollective.reply.>" write="servers" admin="servers" />
     120         <authorizationEntry topic="mcollective.*.agent" read="servers" admin="servers" />
-    121         <authorizationEntry topic="mcollective.registration.agent" write="servers" read="servers" admin="servers" />
+    121         <authorizationEntry topic="mcollective.registration.agent" write="servers" read="servers"
+                  admin="servers" />
     122         <authorizationEntry topic="ActiveMQ.Advisory.>" read="everyone" write="everyone" admin="everyone"/>
     123       </authorizationEntries>
     124     </authorizationMap>

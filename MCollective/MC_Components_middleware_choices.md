@@ -8,11 +8,11 @@
   * Powerfull and flexible security features
   * Scaleable by clustering
   * Pain in the #$@% to configure
-    * detailed docs on [docs.pupptlabs.com](http://docs.puppetlabs.com/mcollective/deploy/middleware/activemq.html)
-  * Connector is shipped with MColective
+    * detailed docs on [docs.puppetlabs.com](http://docs.puppetlabs.com/mcollective/deploy/middleware/activemq.html)
+  * Connector is shipped with MCollective
 * [RabbitMQ](http://www.rabbitmq.com/)
   * Not that good tested as ActiveMQ
-  * Not documented @docs.pupptlabs
+  * Not documented @ docs.puppetlabs
   * Connector is shipped with MCollective
 * Generic Stomp Connector (Deprecated)
 * Custom Connector Plugins

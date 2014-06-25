@@ -8,5 +8,5 @@
   * connector plugin (connection to middleware)
     * ActiveMQ
   * security plugin (sign & optionally encript data)
-    * PSK (ore-shared key)
+    * PSK (pre-shared key)
   * same connectors on all MCollective components (clients/servers/middleware)
